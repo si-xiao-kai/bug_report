@@ -1,8 +1,4 @@
-# Automatic Question Paper Generator System v1.0 has SQL injection
-
 BUG_Author:sixiaokai
-
-Website source address:https://www.sourcecodester.com/php/15190/automatic-question-paper-generator-system-phpoop-free-source-code.html
 
 Vulnerability File: /aqpg/users/classes/view_class.php
 
